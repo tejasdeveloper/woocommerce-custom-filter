@@ -1,0 +1,18 @@
+.filterbybrand h3{
+	font-size:22px;
+	font-weight:500;
+	text-align:left;
+}
+
+.filterwraper{
+	width:100% !important;
+	margin:0!important;
+	max-width: 100% !important;
+	padding-bottom:50px;
+}
+.filterbuttosons{
+	display:flex;
+}
+.filterbrandtems{
+	margin-right:20px;
+}
